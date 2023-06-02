@@ -1,2 +1,2 @@
 # testrepo
-class
+class of IBM course
